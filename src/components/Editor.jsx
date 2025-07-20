@@ -94,7 +94,7 @@ function Editor() {
                         </div>
                     </div>
                 </form>
-                <div className="w-full text-center text-sm text-gray-500 py-2 mt-15 sticky bottom-0 bg-[#121212] z-10">
+                <div className="w-full text-center text-sm text-gray-500 py-2 mt-25 sticky bottom-0 bg-[#121212] z-10">
                     <p>Developed with 💕 by Chandrakant😈</p>
                 </div>
             </div>
