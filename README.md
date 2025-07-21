@@ -34,7 +34,7 @@ A minimal, fast, and beautiful notes application built with React, Redux, and Ta
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/your-username/noteify.git
+git clone https://github.com/your-username/NoteiFy.git
 cd noteify
 npm install
 npm run dev
@@ -49,4 +49,4 @@ Open in browser at `http://localhost:5173`
 
 ---
 
-Feel free to contribute or fork it! ⭐
+Made with ✨
